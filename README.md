@@ -26,9 +26,9 @@
 
 ---
 
-#:sparkles: ABOUT ME
+# :sparkles: ABOUT ME
 - :computer: Seeking for Data Analyst Career: If data is the secret sauce, I would be the master chef, crafting delicious insights for all to savor.
-- :women_student: New/Fresh Graduates;  M.S. Graduates in NTU Neuroscience: Hooked on neuroscience and the mind's mysteries
+- :student: New/Fresh Graduates;  M.S. Graduates in NTU Neuroscience: Hooked on neuroscience and the mind's mysteries
 - :bird: The Real Me: I'm head over heels for cute animals, like seriously obsessed!
 
 - :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-christinawu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yun-jie-christina-wu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/christina_jie)

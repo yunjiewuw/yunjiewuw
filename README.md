@@ -7,10 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 - :computer: Seeking for Data Analyst Career: If data is the secret sauce, I would be the master chef, crafting delicious insights for all to savor.
 - :student: New/Fresh Graduates;  M.S. Graduates in NTU Neuroscience: Hooked on neuroscience and the mind's mysteries
 - :bird: The Real Me: I'm head over heels for cute animals, like seriously obsessed!

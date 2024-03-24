@@ -23,9 +23,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
-#  :sparkles: ABOUT ME
-- :computer: Seeking for Data Analyst Career: If data is the secret sauce, I would be the master chef, crafting delicious insights for all to savor. 
+
+#:sparkles: ABOUT ME
+- :computer: Seeking for Data Analyst Career: If data is the secret sauce, I would be the master chef, crafting delicious insights for all to savor.
 - :women_student: New/Fresh Graduates;  M.S. Graduates in NTU Neuroscience: Hooked on neuroscience and the mind's mysteries
 - :bird: The Real Me: I'm head over heels for cute animals, like seriously obsessed!
 

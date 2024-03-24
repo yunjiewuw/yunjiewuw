@@ -29,7 +29,7 @@
 - :women_student: New/Fresh Graduates;  M.S. Graduates in NTU Neuroscience: Hooked on neuroscience and the mind's mysteries
 - :bird: The Real Me: I'm head over heels for cute animals, like seriously obsessed!
 
-- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yun-jie-christina-wu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/christina_jie)
+- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-christinawu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yun-jie-christina-wu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/christina_jie)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiewuw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

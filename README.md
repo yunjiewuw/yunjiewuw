@@ -8,7 +8,7 @@
 </h1>
 
 - :computer: Currently an research assistant in Brain and consciousness lab, NTU
-- :student: New/Fresh Graduates;  M.S. Graduates in NTU Psychology: Hooked on science of the mind and uses fMRI to uncover the mind's mysteries
+- :student: Interests: Attention, Consciousness, Memory, Machine Learning 
 - :bird: The Real Me: I'm head over heels for cute animals, like seriously obsessed!
 - :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-christinawu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yun-jie-christina-wu/) [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/christina_jie) 
 
